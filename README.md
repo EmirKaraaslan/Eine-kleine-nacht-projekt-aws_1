@@ -1,10 +1,4 @@
-![Screenshot](./diagram.png)
-![Screenshot](./aws_amplify.png)
-![Screenshot](./aws_ampfliy_2.png)
-![Screenshot](./aws_apigateway.png)
-![Screenshot](./aws_lambda.png)
-![Screenshot](./aws_lambda_2_test.png)
-![Screenshot](./final_web.png)
+
 
 # ⚡️ The Power of Math (AWS Serverless Project)
 
@@ -23,15 +17,17 @@ This project is a simple **math calculator** that takes two inputs from the fron
 
 ---
 
+## 🔧 Architecture Diagram
+
+![diagram](diagram.png)
+
 ## 🖥️ Final Working UI
 
 ![final_web](final_web.png)
 
 ---
 
-## 🔧 Architecture Diagram
 
-![diagram](diagram.png)
 
 ---
 
