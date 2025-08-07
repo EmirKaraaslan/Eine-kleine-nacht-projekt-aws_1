@@ -1,1 +1,7 @@
 ![Screenshot](./diagram.png)
+![Screenshot](./aws_amplify.png)
+![Screenshot](./aws_ampfliy_2.png)
+![Screenshot](./aws_apigateway.png)
+![Screenshot](./aws_lambda.png)
+![Screenshot](./aws_lambda_2_test.png)
+![Screenshot](./final_web.png)
